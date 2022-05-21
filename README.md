@@ -5,3 +5,8 @@ Stock market prediction is the act of trying to determine the future values of a
 ![image](https://user-images.githubusercontent.com/76057261/169262096-4d1b5e34-e663-4b32-bf3b-03facb129289.png)
 
 Orange line is the predicted stock price for future days for starbucks(SBUX)
+
+
+
+
+<img src="https://user-images.githubusercontent.com/76057261/169639886-770eb06e-2283-468e-9146-0d083994577e.png" width=60% >
